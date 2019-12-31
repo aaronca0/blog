@@ -58,7 +58,7 @@ clean package war:war -Dmaven.test.skip=true
 后台管理
 --------
 
-后台采用前后端分离的方式实现，源码位于vue文件夹下<https://github.com/iszhouhua/blog/tree/master/vue>
+后台采用前后端分离的方式实现，源码位于vue文件夹下<https://github.com/aaronca0/blog/tree/master/vue>
 
 ------
 
